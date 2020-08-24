@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RealtimeMapKotlin.iml" filepath="$PROJECT_DIR$/RealtimeMapKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realtime-map-example-kotlin.iml" filepath="$PROJECT_DIR$/realtime-map-example-kotlin.iml" group="realtime-map-example-kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/app/realtime-map-example-kotlin-app.iml" filepath="$PROJECT_DIR$/app/realtime-map-example-kotlin-app.iml" group="realtime-map-example-kotlin/app" />
     </modules>
   </component>
 </project>
